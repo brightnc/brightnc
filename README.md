@@ -36,9 +36,6 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightnc&show_icons=true&locale=en&layout=compact" alt="brightnc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brightnc&show_icons=true&locale=en" alt="brightnc" /></p>
 
 
 [linkedin]: https://linkedin.com/in/brightsiwat
