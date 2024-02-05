@@ -9,9 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://linkedin.com/in/brightsiwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brightsiwat" height="30" width="40" /></a> -->
   
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&api=)][linkedin]
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,3 +39,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightnc&show_icons=true&locale=en&layout=compact" alt="brightnc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brightnc&show_icons=true&locale=en" alt="brightnc" /></p>
+
+
+[linkedin]: https://linkedin.com/in/brightsiwat
